@@ -12,7 +12,10 @@ Problem statement:
    1. Data collection
    2. EDA
    3. Cleaning and pre prepocesing 
-   4. Model building and deployment 
+   4. Model building and deployment
+ 
+ - Web Deployment is done on a cloud platform called render.com
+   following is the deployment link https://flightfare.onrender.com
 
 
 
