@@ -1,0 +1,23 @@
+2023-01-12 19:28:42,321 - INFO - imported necessary libraries
+2023-01-12 19:29:01,681 - INFO - imported train set
+2023-01-12 19:29:17,631 - INFO - dropped null values
+2023-01-12 19:30:19,739 - INFO - started with FE
+2023-01-12 19:32:28,459 - INFO - imported necessary libraries
+2023-01-12 19:32:32,562 - INFO - imported train set
+2023-01-12 19:32:33,258 - INFO - dropped null values
+2023-01-12 19:32:33,490 - INFO - started with FE
+2023-01-12 19:32:40,014 - INFO - performed same steps as done with train set
+2023-01-12 19:32:50,149 - INFO - splitting the data set
+2023-01-12 19:32:54,825 - INFO - random forest
+2023-01-12 19:40:21,690 - INFO - imported necessary libraries
+2023-01-12 19:40:26,361 - INFO - imported train set
+2023-01-12 19:40:48,855 - INFO - imported necessary libraries
+2023-01-12 19:40:52,460 - INFO - imported train set
+2023-01-12 19:40:53,223 - INFO - dropped null values
+2023-01-12 19:40:53,426 - INFO - started with FE
+2023-01-12 19:41:00,231 - INFO - performed same steps as done with train set
+2023-01-12 19:41:08,220 - INFO - splitting the data set
+2023-01-12 19:41:13,166 - INFO - random forest
+2023-01-12 19:41:15,468 - INFO - tried linear regression
+2023-01-12 19:41:16,277 - INFO - tried xgboost regressor
+2023-01-12 19:42:18,135 - INFO - tried gradient boosting 
