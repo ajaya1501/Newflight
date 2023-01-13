@@ -1,5 +1,5 @@
 # flight fare predictor 
-to run the project run the command "python app.py"
+- to run the project run the command "python app.py" on local machine 
 
 Problem statement:
 - Since this is a Regression problem statement various ML algorithms have been used 
